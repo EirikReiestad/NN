@@ -1,0 +1,5 @@
+Neat walkthrough: https://dev.to/n8python/attempting-and-sort-of-succeeding-to-implement-neat-in-javascript-2ea6
+Evolving Neural Networks through Augmenting Topologies: http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
+Code bullet NEAT-Template-JavaScript: https://github.com/Code-Bullet/NEAT-Template-JavaScript
+Selection (Generic Algorithm): https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)
+Instinct: neuro-evolution on steriods: https://towardsdatascience.com/neuro-evolution-on-steroids-82bd14ddc2f6
